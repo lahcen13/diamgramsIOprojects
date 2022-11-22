@@ -1,45 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T14:29:53.856Z" agent="5.0 (Windows)" etag="Ed6fos4xgNe41n1RovQY" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T09:45:50.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Qe3SAYU02iSjJUkiATES" version="20.5.3" type="github">
   <diagram id="ASi5oGmEMuRRcsBOkCz2" name="Page-1">
-    <mxGraphModel dx="2310" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1581" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-103" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="90" width="560" height="550" as="geometry" />
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-103" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
+          <mxGeometry x="-780" y="210" width="1360" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-91" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="130" width="185" height="420" as="geometry" />
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-91" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-430" y="250" width="185" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-75" value="crypto-currency document" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="tMuBnyXpiK5j_ZRhVOdU-91">
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-75" value="crypto-currency document" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="tMuBnyXpiK5j_ZRhVOdU-91" vertex="1">
           <mxGeometry width="170" height="53.52449223416966" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-76" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="tMuBnyXpiK5j_ZRhVOdU-91">
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-76" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="tMuBnyXpiK5j_ZRhVOdU-91" vertex="1">
           <mxGeometry y="52.185" width="170" height="367.815" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-95" value="&lt;div&gt;{&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;_id &amp;lt;Int&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;name &amp;lt;String&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;symbol &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;values &amp;lt;Object&amp;gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;bid_price &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;bid_size &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;asked_price &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;asked_size &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;timestamp &amp;lt;Datetime&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;}&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="tMuBnyXpiK5j_ZRhVOdU-91">
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-95" value="&lt;div&gt;{&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;_id &amp;lt;Int&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;name &amp;lt;String&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;symbol &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;values &amp;lt;Object&amp;gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;bid_price &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;bid_size &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;asked_price &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;asked_size &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;timestamp &amp;lt;Datetime&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;}&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" parent="tMuBnyXpiK5j_ZRhVOdU-91" vertex="1">
           <mxGeometry x="9.5" y="53.52" width="160" height="366.48" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-98" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="130" width="185" height="470.01" as="geometry" />
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-98" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-740" y="250" width="185" height="470.01" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-99" value="user document" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="tMuBnyXpiK5j_ZRhVOdU-98">
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-99" value="user document" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="tMuBnyXpiK5j_ZRhVOdU-98" vertex="1">
           <mxGeometry width="170" height="53.52449223416966" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-100" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="tMuBnyXpiK5j_ZRhVOdU-98">
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-100" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="tMuBnyXpiK5j_ZRhVOdU-98" vertex="1">
           <mxGeometry y="52.19" width="170" height="417.82" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-97" value="&lt;div&gt;{&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;_id &amp;lt;Int&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;password &amp;lt;String&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mail &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;first_name &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;last_name &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id_cryptocurrencies &amp;lt;Array&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hash &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;verified &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;currency &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;maxDate &amp;lt;Datetime&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;balance &amp;lt;Float&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="tMuBnyXpiK5j_ZRhVOdU-98">
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-97" value="&lt;div&gt;{&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;_id &amp;lt;Int&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;password &amp;lt;String&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;mail &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;first_name &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;last_name &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;id_cryptocurrencies &amp;lt;Array&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;hash &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;verified &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;currency &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;maxDate &amp;lt;Datetime&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;balance &amp;lt;Float&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" parent="tMuBnyXpiK5j_ZRhVOdU-98" vertex="1">
           <mxGeometry x="10" y="53.52" width="160" height="386.48" as="geometry" />
         </mxCell>
-        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-102" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.005;exitY=0.129;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tMuBnyXpiK5j_ZRhVOdU-76" target="tMuBnyXpiK5j_ZRhVOdU-97">
+        <mxCell id="tMuBnyXpiK5j_ZRhVOdU-102" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=-0.005;exitY=0.129;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tMuBnyXpiK5j_ZRhVOdU-76" target="tMuBnyXpiK5j_ZRhVOdU-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="250" as="sourcePoint" />
-            <mxPoint x="280" y="260" as="targetPoint" />
+            <mxPoint x="-450" y="370" as="sourcePoint" />
+            <mxPoint x="-480" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="270" y="230" />
-              <mxPoint x="270" y="377" />
+              <mxPoint x="-490" y="350" />
+              <mxPoint x="-490" y="497" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VD3KzV2BhVwX1ZligbcY-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-150" y="250" width="185" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="VD3KzV2BhVwX1ZligbcY-6" value="crypto-currency document" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="VD3KzV2BhVwX1ZligbcY-5">
+          <mxGeometry width="170" height="53.52449223416966" as="geometry" />
+        </mxCell>
+        <mxCell id="VD3KzV2BhVwX1ZligbcY-7" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="VD3KzV2BhVwX1ZligbcY-5">
+          <mxGeometry y="52.185" width="170" height="367.815" as="geometry" />
+        </mxCell>
+        <mxCell id="VD3KzV2BhVwX1ZligbcY-8" value="&lt;div&gt;{&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;_id &amp;lt;Int&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;name &amp;lt;String&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;symbol &amp;lt;String&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;values &amp;lt;Object&amp;gt; &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; Symbol: &amp;lt;String&amp;gt;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; Timestamp: &amp;lt;Datetime&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; Exchange: &amp;lt;String&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; Open: &amp;lt;Float&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; High: &amp;lt;Float&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; Low: &amp;lt;Float&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; Close: &amp;lt;Float&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; Volume: &amp;lt;Float&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; TradeCount: &amp;lt;Int&amp;gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; VWAP: &amp;lt;Float&amp;gt;&lt;/div&gt;&lt;div&gt;}&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="VD3KzV2BhVwX1ZligbcY-5">
+          <mxGeometry x="9.5" y="53.52" width="160" height="366.48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
